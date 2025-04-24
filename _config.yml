@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: jekyll-and-hyde
+description: "jekyll and hyde is a clean jekyll theme for the average human. will update this when i have a theme idea."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
