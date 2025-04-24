@@ -1,5 +1,6 @@
 ---
 title: home
+layout: default
 ---
 
 # jekyll-and-hyde
