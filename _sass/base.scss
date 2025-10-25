@@ -2,7 +2,34 @@ body {
     background-color: #eeeeee;
     font-family: sans-serif;
     margin: auto;
-    width: 70ch;
+    width: 100%;
     color: #000000;
   }
   
+.centered {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.dateplustime{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.subpages {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+hr {
+  width: calc(100% - 4rem); 
+  box-sizing: border-box;
+  border: 0.5px solid #000;  
+}
+
+.dateplustime, .subpages {
+  padding: 0 2rem; 
+  box-sizing: border-box; 
+}
